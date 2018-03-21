@@ -1,0 +1,12 @@
+[I 13:59:34.215 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 13:59:34.855 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 13:59:34.871 NotebookApp] Serving notebooks from local directory: /home/adamian/SuperResolution/super-resolution/code
+[I 13:59:34.871 NotebookApp] 0 active kernels
+[I 13:59:34.871 NotebookApp] The Jupyter Notebook is running at:
+[I 13:59:34.871 NotebookApp] http://[all ip addresses on your system]:5000/
+[I 13:59:34.871 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 13:59:40.408 NotebookApp] 302 GET / (69.254.30.207) 0.62ms
+[I 13:59:40.459 NotebookApp] 302 GET /tree? (69.254.30.207) 0.85ms
+[I 13:59:44.710 NotebookApp] 302 POST /login?next=%2Ftree%3F (69.254.30.207) 1.41ms
+[C 14:00:48.619 NotebookApp] received signal 15, stopping
+[I 14:00:48.620 NotebookApp] Shutting down 0 kernels
